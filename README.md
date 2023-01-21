@@ -32,3 +32,6 @@ npm run lint
 
 ## Links
 [Complete tutorial](https://medium.com/@gregsolo/gamedev-patterns-and-algorithms-in-action-with-typescript-d29b913858e)
+
+Find tutorials on other fun coding projects at
+[www.marcusn.dev](https://marcusn.dev)
