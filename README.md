@@ -35,3 +35,5 @@ npm run lint
 
 Find tutorials on other fun coding projects at
 [www.marcusn.dev](https://marcusn.dev)
+
+Find outdoor activities or send your friends out on an adventure at [www.geoquestr.com](https://geoquestr.com)
